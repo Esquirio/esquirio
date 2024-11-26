@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Fernando Esquirio Torres, an Embedded Software Engineer/Application Engineer with a strong background in C/C++ for embedded systems. Currently, I'm working at u-blox as an application engineer and provide second-line support to resolve technical issues and deliver customer solutions. My expertise includes RTOS, Bluetooth, Wi-Fi, and robotics, alongside technical writing and teaching. I am skilled at solving complex technical problems and providing practical, innovative solutions
 
 <!--
 **Esquirio/esquirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
